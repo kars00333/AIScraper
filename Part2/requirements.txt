@@ -1,0 +1,4 @@
+click==8.5.0
+duckduckgo_search==8.1.1
+lxml==6.1.2
+primp==2.0.0

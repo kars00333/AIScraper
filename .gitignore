@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+dvenv/
+
+# SQLite runtime files
+*.db-shm
+*.db-wal
+
+# Secrets - never commit
+.env
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Internal reports / write-ups - not for GitHub upload
+career_scrapers_deliverable/DELIVERABLE.md
+career_scrapers_workfiles/IMPLEMENTATION_PLAN.md
+career_scrapers_workfiles/PART3_HPE_answer.md
+career_scrapers_workfiles/STATUS_REPORT.md
+Part2/REPORT.md
+Part2/Dev-set/DEVSET.md
+Part2/Part2Deliver/REPORT.md
+Part2/Part2Deliver/Dev-set/DEVSET.md
